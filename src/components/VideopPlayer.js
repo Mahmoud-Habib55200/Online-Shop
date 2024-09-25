@@ -3,8 +3,8 @@ const VideopPlayer = () => {
   return (
   
       <div className='w-full'>
-          <video
-              className='brightness-75'
+          <video 
+               className='brightness-75'
               autoPlay
               loop
               muted

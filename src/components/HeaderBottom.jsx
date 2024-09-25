@@ -182,14 +182,7 @@ export default function HeaderBottom() {
           <p className=" text-white ">
             Get free delivery on orders over $100
           </p>
-          {/* ############################### */}
-          {/* Language */}
-
-
-
-
-          {/* Language */}
-          {/* ############################### */}
+         
         </div>
 
 

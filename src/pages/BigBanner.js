@@ -6,6 +6,7 @@ const BigBanner = () => {
   return (
     <div className="w-full overflow-hidden"> {/* لضمان عدم تجاوز الصورة حواف العنصر الأب */}
       <motion.img
+        loading='lazy'
         className="w-full object-cover hover:brightness-90 transition-all ease-out"
         src={bigBanner}
 
